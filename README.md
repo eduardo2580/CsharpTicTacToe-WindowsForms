@@ -1,6 +1,9 @@
 # A Tic Tac Toe game
 A simple Tic Tac Toe game in English written in C#.
 
+## Technologies
+This project uses C# and Windows Forms.
+
 ## How to run
 To run this project, you need to have Visual Studio 2022 installed on your computer.
 
